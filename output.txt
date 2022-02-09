@@ -1,0 +1,5 @@
+durum	cikti
+q0	0
+q1	0
+q2	0
+q3	1
